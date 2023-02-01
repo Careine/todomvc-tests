@@ -1,0 +1,16 @@
+{
+  "name": "todomvc-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.27.8",
+    "cypress": "^11.2.0"
+  }
+}
